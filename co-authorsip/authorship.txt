@@ -1,0 +1,34 @@
+﻿id	author	documents	citations	total link strength
+945	"ahinkorah, bright opoku"	31	641	74
+4650	"barros, aluisio j. d."	35	2875	20
+4924	"baum, fran"	28	708	16
+5398	"benach, joan"	26	1104	14
+6016	"bhutta, zulfiqar a."	34	11367	81
+17232	"farzadfar, farshad"	35	9601	97
+18676	"friel, sharon"	42	4862	21
+20943	"gostin, lawrence o."	20	400	1
+23183	"hay, simon i."	21	10344	75
+25296	"hyder, adnan a."	21	318	14
+30363	"kunst, anton e."	22	1066	3
+30564	"labonte, ronald"	36	1273	15
+31021	"larijani, bagher"	20	504	39
+34242	"mackenbach, johan p."	23	1855	4
+34243	"mackenbach, jp"	20	4345	0
+35334	"marmot, michael"	20	5550	4
+36593	"mckee, martin"	34	11440	51
+38326	"mokdad, ali h."	28	11063	106
+39470	"muntaner, carles"	27	833	15
+39574	"murray, christopher j. l."	36	13392	115
+39930	"naghavi, mohsen"	27	11129	98
+45657	"pratt, bridget"	44	705	14
+47486	"rezaei, negar"	20	764	52
+47686	"ridde, valery"	24	422	0
+48842	"rudan, igor"	25	1277	2
+50641	"schrecker, ted"	21	529	11
+50967	"seidu, abdul-aziz"	22	324	49
+57104	"tugwell, peter"	23	756	22
+58617	"victora, cesar g."	25	1836	20
+58990	"vos, theo"	24	11988	90
+60182	"welch, vivian"	22	709	22
+62085	"yaya, sanni"	49	1024	66
+62785	"zegeye, betregiorgis"	22	196	41
